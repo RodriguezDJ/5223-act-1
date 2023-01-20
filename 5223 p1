@@ -7,9 +7,12 @@
 //espacio cris :)
 var x = 17
 var r = 16
-var z = 33
+var z = x + r
 
-alert = x + z
+function () {
+    return "el numero es" + " z "
+}
+ya nose que poner aqui 
 
 
 
