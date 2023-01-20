@@ -7,7 +7,11 @@
 //espacio cris :)
 var x = 17
 var r = 16
-var y = 33
+var z = 33
+
+alert = x + z
+
+
 
 
 
